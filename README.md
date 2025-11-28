@@ -1,10 +1,10 @@
-# JavaScript Quiz Game – Lab Assignment 4
+JavaScript Quiz Game – Lab Assignment 4
 
 This repository contains my Lab Assignment 4 for JavaScript.  
 I created a simple quiz game that runs in the *browser console* using basic JavaScript concepts like arrays, loops, functions, and conditionals. The quiz asks questions through `prompt()` and gives feedback using `alert()`.
 
 
-# Project Overview
+ Project Overview
 
 The quiz contains 5 questions stored inside an array.  
 For each question, the user enters an answer, gets instant feedback, and at the end, the program displays the final score.
@@ -20,7 +20,7 @@ This assignment helped me understand:
 
 
 
-# How to Run the Quiz
+ How to Run the Quiz
 
 1. Open *Google Chrome*
 2. Press *F12* to open Developer Tools
@@ -31,7 +31,7 @@ This assignment helped me understand:
 
 
 
-# What I Learned
+What I Learned
 
 - Arrays and objects for storing data  
 - Loops for repeating tasks  
